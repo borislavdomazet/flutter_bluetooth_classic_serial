@@ -7,8 +7,8 @@ issue_tracker: https://github.com/C0DE-IN/flutter_bluetooth_classic_serial/issue
 documentation: https://github.com/C0DE-IN/flutter_bluetooth_classic_serial/blob/main/README.md
 
 environment:
-  sdk: '>=3.0.0 <4.0.0'
-  flutter: ">=3.10.0"
+  sdk: ^3.12.0
+  flutter: ">=3.44.0"
 
 dependencies:
   flutter:
